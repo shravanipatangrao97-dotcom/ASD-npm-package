@@ -13,11 +13,11 @@ describe('truncate', () => {
 
   it('supports custom omission string', () => {
     assert.equal(truncate('Hello World!', 8, '[..]'), 'Hell[..]');
-    assert.equal(truncate('Hello World!', 8, { omission: '--' }), 'HelloW--');
+    assert.equal(truncate('Hello World!', 8, { omission: '--' }), 'Hello --');
   });
 
   it('supports options object as second argument', () => {
-    assert.equal(truncate('Hello World!', { length: 8, omission: '..' }), 'HelloW..');
+    assert.equal(truncate('Hello World!', { length: 8, omission: '..' }), 'Hello ..');
   });
 
   it('handles length smaller than omission indicator', () => {
