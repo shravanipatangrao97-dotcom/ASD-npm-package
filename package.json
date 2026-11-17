@@ -21,8 +21,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/shravanipatangrao/textkit-lite.git"
+    "url": "git+https://github.com/shravanipatangrao/textkit-lite.git"
   },
   "author": "Shravani",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/shravanipatangrao/textkit-lite/issues"
+  },
+  "homepage": "https://github.com/shravanipatangrao/textkit-lite#readme"
 }
