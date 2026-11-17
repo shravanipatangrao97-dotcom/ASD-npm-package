@@ -1,0 +1,28 @@
+{
+  "name": "textkit-lite",
+  "version": "1.0.0",
+  "description": "Lightweight text processing utilities for Node.js with zero dependencies.",
+  "main": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "text",
+    "string",
+    "utilities",
+    "slugify",
+    "capitalize",
+    "truncate",
+    "wordcount",
+    "palindrome"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shravanipatangrao/textkit-lite.git"
+  },
+  "author": "Shravani",
+  "license": "MIT"
+}
