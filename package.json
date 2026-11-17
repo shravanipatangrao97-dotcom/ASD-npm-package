@@ -1,6 +1,6 @@
 {
   "name": "textkit-lite",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lightweight text processing utilities for Node.js with zero dependencies.",
   "main": "src/index.js",
   "files": [
