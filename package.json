@@ -21,13 +21,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shravanipatangrao/textkit-lite.git"
+    "url": "git+https://github.com/shravanipatangrao97-dotcom/ASD-npm-package.git"
   },
   "author": "Shravani",
   "license": "MIT",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/shravanipatangrao/textkit-lite/issues"
+    "url": "https://github.com/shravanipatangrao97-dotcom/ASD-npm-package/issues"
   },
-  "homepage": "https://github.com/shravanipatangrao/textkit-lite#readme"
+  "homepage": "https://github.com/shravanipatangrao97-dotcom/ASD-npm-package#readme"
 }
